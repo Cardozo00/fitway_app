@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88150142578",
+    "project_id": "fitway-app-cad65",
+    "storage_bucket": "fitway-app-cad65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88150142578:android:eeb2b04529102a37eb5ceb",
+        "android_client_info": {
+          "package_name": "com.brunocardozo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBATZHFFx-6nf7h5X1WZquwiwhTM0Vmx-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
